@@ -4,6 +4,7 @@ Bagels on Broadway is a comprehensive proposal for a bagel shop café located in
 
 ![Bagels on Broadway Logo](Bagels%20on%20Broadway%20logo.jpg)
 
+This project implements the use of Python (pandas, seaborn, statplotlib) for , web scraping, data analysis and visualization, Four Square API for competitive landscape and target market analysis, and Tableau for data visualization. External research websites were also used to support of the proposal developed.
 
 Project Components
 
