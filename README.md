@@ -3,7 +3,7 @@
 Bagels on Broadway is a comprehensive proposal for a bagel shop café located in Midtown Toronto. This project combines detailed market research, demographic analysis, and visual data insights to establish a thriving and community-focused business. The shop will provide premium bagels, beverages, and a cozy environment tailored to the bustling Midtown demographic.
 
 im = Image.open("Bagels on Broadway logo")
-
+im.show()
 
 Project Components
 
