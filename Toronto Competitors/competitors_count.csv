@@ -1,0 +1,82 @@
+Borough,Neighbourhood,Postal Code,Count
+Central Toronto,Davisville,M4S,13
+Central Toronto,Davisville North,M4P,10
+Central Toronto,Forest Hill North & West,M5P,18
+Central Toronto,Lawrence Park,M4N,7
+Central Toronto,Moore Park / Summerhill East,M4T,12
+Central Toronto,North Toronto West,M4R,15
+Central Toronto,Roselawn,M5N,16
+Central Toronto,Summerhill West / Rathnelly / South Hill / Forest Hill SE / Deer Park,M4V,13
+Central Toronto,The Annex / North Midtown / Yorkville,M5R,18
+Count ,,,122
+Downtown Toronto,Berczy Park,M5E,20
+Downtown Toronto,CN Tower / King and Spadina / Railway Lands / Harbourfront West / Bathurst Quay / South Niagara / Island airport,M5V,14
+Downtown Toronto,Central Bay Street,M5G,20
+Downtown Toronto,Christie,M6G,11
+Downtown Toronto,Church and Wellesley,M4Y,20
+Downtown Toronto,Commerce Court / Victoria Hotel,M5L,20
+Downtown Toronto,First Canadian Place / Underground city,M5X,20
+Downtown Toronto,"Garden District, Ryerson",M5B,20
+Downtown Toronto,Harbourfront East / Union Station / Toronto Islands,M5J,20
+Downtown Toronto,Kensington Market / Chinatown / Grange Park,M5T,20
+Downtown Toronto,Regent Park / Harbourfront,M5A,20
+Downtown Toronto,Richmond / Adelaide / King,M5H,20
+Downtown Toronto,Rosedale,M4W,12
+Downtown Toronto,St. James Town,M5C,20
+Downtown Toronto,St. James Town / Cabbagetown,M4X,20
+Downtown Toronto,Toronto Dominion Centre / Design Exchange,M5K,20
+Downtown Toronto,University of Toronto / Harbord,M5S,20
+Downtown Toronto Stn A PO Boxes 25 The Esplanade,Enclave of M5E,M5W,20
+Count ,,,337
+East Toronto,India Bazaar / The Beaches West,M4L,6
+East Toronto,Studio District,M4M,6
+East Toronto,The Beaches,M4E,3
+East Toronto,The Danforth West / Riverdale,M4K,3
+East Toronto Business reply mail Processing Centre 969 Eastern,Enclave of M4L,M7Y,4
+East York,Leaside,M4G,2
+East York,Thorncliffe Park,M4H,1
+East York East Toronto,The Danforth East,M4J,3
+Etobicoke,Alderwood / Long Branch,M8W,1
+Etobicoke,Eringate / Bloordale Gardens / Old Burnhamthorpe / Markland Wood,M9C,3
+Etobicoke,Kingsview Village / St. Phillips / Martin Grove Gardens / Richview Gardens,M9R,1
+Etobicoke,Old Mill South / King's Mill Park / Sunnylea / Humber Bay / Mimico NE / The Queensway East / Royal York South East / Kingsway Park South East,M8Y,1
+Etobicoke,The Kingsway / Montgomery Road / Old Mill North,M8X,1
+Etobicoke,West Deane Park / Princess Gardens / Martin Grove / Islington / Cloverdale,M9B,2
+Etobicoke,Westmount,M9P,1
+Etobicoke Northwest,Clairville / Humberwood / Woodbine Downs / West Humber / Kipling Heights / Rexdale / Elms / Tandridge / Old Rexdale,M9W,1
+Mississauga Canada Post Gateway Processing Centre,Enclave of L4W,M7R,1
+North York,Bathurst Manor / Wilson Heights / Downsview North,M3H,3
+North York,Bedford Park / Lawrence Manor East,M5M,8
+North York,Don Mills North,M3B,1
+North York,Downsview Northwest,M3N,1
+North York,Downsview West,M3L,1
+North York,Fairview / Henry Farm / Oriole,M2J,3
+North York,Glencairn,M6B,6
+North York,Hillcrest Village,M2H,1
+North York,Humber Summit,M9L,1
+North York,Humberlea / Emery,M9M,1
+North York,Lawrence Manor / Lawrence Heights,M6A,1
+North York,North Park / Maple Leaf Park / Upwood Park,M6L,1
+North York,Northwood Park / York University,M3J,5
+North York,Parkwoods,M3A,3
+North York,Willowdale South,M2N,2
+North York,Willowdale West,M2R,5
+North York,York Mills / Silver Hills,M2L,1
+North York,York Mills West,M2P,3
+Queen's Park,Ontario Provincial Government,M7A,20
+Scarborough,Agincourt,M1S,1
+Scarborough,Clarks Corners / Tam OShanter / Sullivan,M1T,2
+Scarborough,Dorset Park / Wexford Heights / Scarborough Town Centre,M1P,1
+Scarborough,Malvern / Rouge,M1B,1
+Scarborough,Wexford / Maryvale,M1R,1
+West Toronto,Brockton / Parkdale Village / Exhibition Place,M6K,6
+West Toronto,Dufferin / Dovercourt Village,M6H,8
+West Toronto,High Park / The Junction South,M6P,4
+West Toronto,Little Portugal / Trinity,M6J,13
+West Toronto,Parkdale / Roncesvalles,M6R,6
+West Toronto,Runnymede / Swansea,M6S,3
+York,Caledonia-Fairbanks,M6E,6
+York,Del Ray / Mount Dennis / Keelsdale and Silverthorn,M6M,2
+York,Humewood-Cedarvale,M6C,9
+York,Runnymede / The Junction North,M6N,2
+York,Weston,M9N,2
