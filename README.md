@@ -19,9 +19,11 @@ Cost Per Bagel: $0.50; selling price: $2.50.
 Additional Revenue: Pairing with beverages like coffee and tea increases per-ticket spending.
 
 3. Competitor Analysis
+To better understand our competitive market, we used Foursquare to find a list of competitors in our target neighborhoods. We first looked at Downtown Toronto and compared it to Midtown Toronto, this helped us narrow down our choice of location. The corresponding maps are in our presentation.
+Below is a list of our key competitors and their niches, we aim to leverage our competitive advantage as outlined below.
 Key Competitors:
-Kettlemans Bagel: Focused on Montréal-style bagels; premium pricing and strong online presence.
-Kiva’s: Traditional Jewish-style bagels; appeals to nostalgic and local customers.
+Kettlemans Bagel: Focused on Montréal-style bagels; premium pricing and a strong online presence.
+Kiva’s: Traditional Jewish-style bagels; appeal to nostalgic and local customers.
 The Bagel House: Specializes in artisanal, wood-fired bagels.
 Competitive Advantage:
 A unique mix of cultural and plant-based offerings (e.g., chicken tikka bagels).
@@ -29,21 +31,24 @@ Community-oriented events and partnerships with schools.
 A tech-enabled loyalty system and delivery options.
 
 
-4. Data and Visual Insights
+5. Data and Visual Insights
 Key Insights from Graphs and Data Analysis:
 Demographics:
 Age groups 15–29 dominate in the ideal neighborhoods (Postal Codes M4P and M4N).
-Strong reliance on walking, biking, and public transit in these areas.
+Strong reliance on walking, biking, and public transit in these areas. This shows us that this location is easily accessible by transit and has high foot traffic, both elements pay in our favor.
 Transportation Mode Analysis:
 30% transit use, 10% walking or biking.
 Highlights the importance of a location accessible to non-car users.
 Income Trends in Ontario:
 Steady growth in disposable income from $20,724 in 2000 to $37,653 in 2021.
+High Schools in the Area:
+Leveraging Foursquare, we were able to use the documentation and further find information about high schools in the area, we found 7, this supports our proposal and target market.
 
-5. Slide Deck Summary
+7. Slide Deck Summary
 The Canva slide deck reinforces the project's value proposition with:
 
 Clear visual representations of revenue breakdowns.
+Data visualisation of competition landscape and other data that supports the proposal.
 Market comparisons highlighting gaps and opportunities.
 Brand strategy focusing on premium offerings, community engagement, and modern conveniences.
 
